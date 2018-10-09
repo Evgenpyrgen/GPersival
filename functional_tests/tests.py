@@ -21,7 +21,7 @@ class NewVisitorTest(LiveServerTestCase):
 
     def wait_for_row_in_list_table(self, row_text):
         """ожидать строку в таблице списка"""
-        start_time = time.time()
+        start_time = time.time() #время, выраженное в секундах с начала эпохи
         while True:
             try:
                 table = self.browser.find_element_by_id('id_list_table')
@@ -38,7 +38,7 @@ class NewVisitorTest(LiveServerTestCase):
         # Эдит слышала про крутое новое онлайн-приложение со списком
         # неотложных дел. Она решает оценить его домашнюю страницу
         self.browser.get(self.live_server_url)
-        
+
         # Она видит, что заголовок и шапка страницы говорят о списках
         # неотложных дел
         self.assertIn('To-Do', self.browser.title)
@@ -47,13 +47,12 @@ class NewVisitorTest(LiveServerTestCase):
         # Ей сразу же предлагается ввести элемент списка
         inputbox = self.browser.find_element_by_id('id_new_item')
         self.assertEqual(inputbox.get_attribute('placeholder'), 'Enter a to-do item')
-        
+
         # Она набирает в текстовом поле "Купить павлиньи перья" (ее хобби - вязание рыболовных мушек)
         inputbox.send_keys('Купить павлиньи перья')
         # Когда она нажимает enter, страница обновляется, и теперь страница
         # содержит "1: Купить павлиньи перья" в качестве элемента списка
         inputbox.send_keys(Keys.ENTER)
-        #time.sleep(1)
         self.wait_for_row_in_list_table('1: Купить павлиньи перья')
 
         # Текстовое поле по-прежнему приглашает ее добавить еще один элемент.
@@ -61,7 +60,6 @@ class NewVisitorTest(LiveServerTestCase):
         inputbox = self.browser.find_element_by_id('id_new_item')
         inputbox.send_keys('Сделать мушку из павлиньих перьев')
         inputbox.send_keys(Keys.ENTER)
-        #time.sleep(1)
 
         # Страница снова обновляется, и теперь показывает оба элемента ее списка
         self.wait_for_row_in_list_table('2: Сделать мушку из павлиньих перьев')
@@ -85,8 +83,8 @@ class NewVisitorTest(LiveServerTestCase):
         self.wait_for_row_in_list_table('1: Купить павлиньи перья')
 
         #Она замечает, что ее список имеет уникальный URL-адрес
-        edith_list_url = self.browser.current_url
-        self.assertRegex(edith_list_url, '/lists/ .+')
+        edith_list_url = self.browser.current_url #???
+        self.assertRegex(edith_list_url, '/lists/.+')
 
         #теперь новый пользователь, Фрэнсис, приходит на сайт.
 
@@ -109,7 +107,7 @@ class NewVisitorTest(LiveServerTestCase):
 
         # Фрэнсис получает уникальный URL-адрес
         francis_list_url = self.browser.current_url
-        self.assertRegex(francis_list_url, '/lists/ .+')
+        self.assertRegex(francis_list_url, '/lists/.+')
         self.assertNotEqual(francis_list_url, edith_list_url)
 
         # Опять таки, нет ни следа от списка Эдит
