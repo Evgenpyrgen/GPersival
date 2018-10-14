@@ -14,3 +14,9 @@ def view_list(request):
     """новый список"""
     items = Item.objects.all()
     return render(request, 'list.html', {'items': items})
+
+
+def new_list(request):
+    """новый список"""
+    Item.objects.create(text=request.POST['item_text'])
+    return redirect('/lists/единственный-список-в-мире/')
