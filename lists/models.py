@@ -4,7 +4,6 @@ from django.db import models
 class List(models.Model):
     """списк"""
     pass
-    #text = models.TextField()
 
 class Item(models.Model):
     """элемент списка"""
