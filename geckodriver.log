@@ -1,0 +1,185 @@
+1540381582801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3SRs7KZA6nPR"
+
+(firefox:30000): Gtk-WARNING **: 11:46:23.414: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30000): Gtk-WARNING **: 11:46:23.414: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540381584237	Marionette	INFO	Listening on port 34209
+1540381584307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540381584343	Marionette	DEBUG	[2147483649] Frame script loaded
+1540381584344	Marionette	DEBUG	[2147483649] Frame script registered
+1540381584354	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540381584364	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540381584382	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost:37807/
+1540381584401	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost:37807/
+1540381585648	Marionette	INFO	Stopped listening on port 34209
+[Parent 30000, Gecko_IOThread] WARNING: pipe error (69): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540381587055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kySdC5vGnyEv"
+
+(firefox:30223): Gtk-WARNING **: 11:46:27.638: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30223): Gtk-WARNING **: 11:46:27.638: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540381588407	Marionette	INFO	Listening on port 39835
+1540381588460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540381588495	Marionette	DEBUG	[2147483649] Frame script loaded
+1540381588496	Marionette	DEBUG	[2147483649] Frame script registered
+1540381588513	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540381588520	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540381588525	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost:37807/
+1540381588557	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost:37807/
+1540381589152	Marionette	INFO	Stopped listening on port 39835
+1540381589173	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+observe@AsyncShutdown.jsm:541:9
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+1540381590550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4xAofuK4MtAa"
+
+(firefox:30445): Gtk-WARNING **: 11:46:31.123: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30445): Gtk-WARNING **: 11:46:31.123: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540381591908	Marionette	INFO	Listening on port 45883
+1540381591958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540381592001	Marionette	DEBUG	[2147483649] Frame script loaded
+1540381592002	Marionette	DEBUG	[2147483649] Frame script registered
+1540381592015	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540381592023	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540381592040	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost:37807/
+1540381592057	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost:37807/
+1540381592692	Marionette	INFO	Stopped listening on port 45883
+1540381592713	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+observe@AsyncShutdown.jsm:541:9
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+1540381975086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.l5WBtrQGHxFQ"
+
+(firefox:30734): Gtk-WARNING **: 11:52:55.691: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30734): Gtk-WARNING **: 11:52:55.691: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540381976453	Marionette	INFO	Listening on port 45471
+1540381976499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540381976556	Marionette	DEBUG	[2147483649] Frame script loaded
+1540381976560	Marionette	DEBUG	[2147483649] Frame script registered
+1540381976571	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540381976587	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540381976593	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost:43051/
+1540381976627	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost:43051/
+1540381977854	Marionette	INFO	Stopped listening on port 45471
+[Parent 30734, Gecko_IOThread] WARNING: pipe error (69): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540381979269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3BmchGVbtB3E"
+
+(firefox:30958): Gtk-WARNING **: 11:52:59.857: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30958): Gtk-WARNING **: 11:52:59.857: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540381980610	Marionette	INFO	Listening on port 37255
+1540381980674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540381980713	Marionette	DEBUG	[2147483649] Frame script loaded
+1540381980719	Marionette	DEBUG	[2147483649] Frame script registered
+1540381980734	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540381980742	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540381980754	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost:43051/
+1540381980772	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost:43051/
+1540381980815	Marionette	INFO	Stopped listening on port 37255
+1540381980834	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+observe@AsyncShutdown.jsm:541:9
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+1540381982225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Om4ZGVVSDacD"
+
+(firefox:31150): Gtk-WARNING **: 11:53:02.811: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:31150): Gtk-WARNING **: 11:53:02.811: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540381983572	Marionette	INFO	Listening on port 43009
+1540381983630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540381983669	Marionette	DEBUG	[2147483649] Frame script loaded
+1540381983670	Marionette	DEBUG	[2147483649] Frame script registered
+1540381983683	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540381983690	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540381983696	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost:43051/
+1540381983728	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost:43051/
+1540381984326	Marionette	INFO	Stopped listening on port 43009
+1540381984346	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+observe@AsyncShutdown.jsm:541:9
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+1540381985720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lUnEzauQGXr2"
+
+(firefox:31366): Gtk-WARNING **: 11:53:06.304: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:31366): Gtk-WARNING **: 11:53:06.304: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540381987060	Marionette	INFO	Listening on port 33307
+1540381987125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540381987166	Marionette	DEBUG	[2147483649] Frame script loaded
+1540381987168	Marionette	DEBUG	[2147483649] Frame script registered
+1540381987184	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540381987192	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540381987198	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost:43051/
+1540381987232	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost:43051/
+1540381987851	Marionette	INFO	Stopped listening on port 33307
+1540381987870	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+observe@AsyncShutdown.jsm:541:9
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
