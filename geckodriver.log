@@ -1949,3 +1949,49 @@ JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection
 1542810806131	Marionette	INFO	Stopped listening on port 46777
 JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
 JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1542812037578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mfsoRhRPZ8mG"
+
+(firefox:4439): Gtk-WARNING **: 14:53:58.098: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4439): Gtk-WARNING **: 14:53:58.098: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1542812038861	Marionette	INFO	Listening on port 42733
+1542812038886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542812039685	Marionette	INFO	Stopped listening on port 42733
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1542812040205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ADl4KlKGeXOh"
+
+(firefox:4701): Gtk-WARNING **: 14:54:00.749: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4701): Gtk-WARNING **: 14:54:00.749: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1542812041531	Marionette	INFO	Listening on port 44125
+1542812041620	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542812044052	Marionette	INFO	Stopped listening on port 44125
+1542812044545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7oGu93JfyMRg"
+
+(firefox:4992): Gtk-WARNING **: 14:54:05.093: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4992): Gtk-WARNING **: 14:54:05.093: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1542812045923	Marionette	INFO	Listening on port 41721
+1542812045951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542812047364	Marionette	INFO	Stopped listening on port 41721
+1542812051391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.y3DoqFTjHOJR"
+
+(firefox:5311): Gtk-WARNING **: 14:54:11.949: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5311): Gtk-WARNING **: 14:54:11.949: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1542812052742	Marionette	INFO	Listening on port 40659
+1542812052798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542812053580	Marionette	INFO	Stopped listening on port 40659
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1542812058390	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Vv9qdRqbJmy2"
+
+(firefox:5573): Gtk-WARNING **: 14:54:18.960: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5573): Gtk-WARNING **: 14:54:18.960: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1542812059793	Marionette	INFO	Listening on port 44127
+1542812059799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542812060629	Marionette	INFO	Stopped listening on port 44127
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
