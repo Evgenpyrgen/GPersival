@@ -1,14 +1,15 @@
 from django.core.exceptions import ValidationError
 from django.shortcuts import render, redirect
 from lists.models import Item, List
+from lists.forms import ItemForm
 
 
 def home_page(request):
     """Домашняя страница"""
-    if request.method == 'POST':
-        Item.objects.create(text=request.POST['item_text'])
-        return redirect('/lists/единственный-список-в-мире/')
-    return render(request, 'home.html')
+    # if request.method == 'POST':
+    #     Item.objects.create(text=request.POST['item_text'])
+    #     return redirect('/lists/единственный-список-в-мире/')
+    return render(request, 'home.html', {'form': ItemForm()})
 
 
 def view_list(request, list_id):
