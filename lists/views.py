@@ -7,7 +7,7 @@ from lists.forms import ItemForm
 def home_page(request):
     """Домашняя страница"""
     # if request.method == 'POST':
-    #     Item.objects.create(text=request.POST['item_text'])
+    #     Item.objects.create(text=request.POST['text'])
     #     return redirect('/lists/единственный-список-в-мире/')
     return render(request, 'home.html', {'form': ItemForm()})
 
@@ -19,7 +19,7 @@ def view_list(request, list_id):
 
     if request.method == 'POST':
         try:
-            item = Item(text=request.POST['item_text'], list=list_)
+            item = Item(text=request.POST['text'], list=list_)
             item.full_clean()
             item.save()
             return redirect(list_)
@@ -31,7 +31,7 @@ def view_list(request, list_id):
 def new_list(request):
     """новый список"""
     list_ = List.objects.create()
-    item = Item.objects.create(text=request.POST['item_text'], list=list_)
+    item = Item.objects.create(text=request.POST['text'], list=list_)
     try:
         item.full_clean()
         item.save()
@@ -40,9 +40,3 @@ def new_list(request):
         error = "You can't have an empty list item"
         return render(request, 'home.html', {"error": error})
     return redirect(list_)
-
-
-# def add_item(request, list_id):
-#     list_ = List.objects.get(id=list_id)
-#     Item.objects.create(text=request.POST['item_text'], list=list_)
-#     return redirect(f'/lists/{list_.id}/')

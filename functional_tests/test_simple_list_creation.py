@@ -19,7 +19,7 @@ class NewVisitorTest(FunctionalTest):
         header_text = self.browser.find_element_by_tag_name('h1').text
         self.assertIn('To-Do', header_text)
         # Ей сразу же предлагается ввести элемент списка
-        inputbox = self.browser.find_element_by_id('id_new_item')
+        inputbox = self.browser.find_element_by_id('id_text')
         self.assertEqual(inputbox.get_attribute('placeholder'), 'Enter a to-do item')
 
         # Она набирает в текстовом поле "Купить павлиньи перья" (ее хобби - вязание рыболовных мушек)
@@ -31,7 +31,7 @@ class NewVisitorTest(FunctionalTest):
 
         # Текстовое поле по-прежнему приглашает ее добавить еще один элемент.
         # Она вводит "Сделать мушку из павлиньих перьев" (Эдит очень методична)
-        inputbox = self.browser.find_element_by_id('id_new_item')
+        inputbox = self.browser.find_element_by_id('id_text')
         inputbox.send_keys('Сделать мушку из павлиньих перьев')
         inputbox.send_keys(Keys.ENTER)
 
@@ -51,7 +51,7 @@ class NewVisitorTest(FunctionalTest):
         """тест: многочисленные пользователи могут начать списки по разным url"""
         #Эдит начинает новый список
         self.browser.get(self.live_server_url)
-        inputbox = self.browser.find_element_by_id('id_new_item')
+        inputbox = self.browser.find_element_by_id('id_text')
         inputbox.send_keys('Купить павлиньи перья')
         inputbox.send_keys(Keys.ENTER)
         self.wait_for_row_in_list_table('1: Купить павлиньи перья')
@@ -74,7 +74,7 @@ class NewVisitorTest(FunctionalTest):
         self.assertNotIn('Сделать мушку', page_text)
         # Фрэнсис начинает новый список, водя новый элемент. Он менее
         # интересен, чем список Эдит ...
-        inputbox = self.browser.find_element_by_id('id_new_item')
+        inputbox = self.browser.find_element_by_id('id_text')
         inputbox.send_keys('Купить молоко')
         inputbox.send_keys(Keys.ENTER)
         self.wait_for_row_in_list_table('1: Купить молоко')
