@@ -2409,3 +2409,585 @@ JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection
 1543929294935	Marionette	INFO	Listening on port 39719
 1543929294944	Marionette	WARN	TLS certificate errors will be ignored for this session
 1543929296379	Marionette	INFO	Stopped listening on port 39719
+1543936126127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oofXkWcVuBGZ"
+
+(firefox:7818): Gtk-WARNING **: 15:08:46.674: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7818): Gtk-WARNING **: 15:08:46.674: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543936127525	Marionette	INFO	Listening on port 41331
+1543936127532	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543936128321	Marionette	INFO	Stopped listening on port 41331
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1543936128860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QThK2c6p0IAB"
+
+(firefox:8068): Gtk-WARNING **: 15:08:49.376: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8068): Gtk-WARNING **: 15:08:49.376: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543936130221	Marionette	INFO	Listening on port 41377
+1543936130267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543936141188	Marionette	INFO	Stopped listening on port 41377
+[Parent 8068, Gecko_IOThread] WARNING: pipe error: Обрыв канала: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+1543936141611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tZU3NcP9QEE7"
+
+(firefox:8312): Gtk-WARNING **: 15:09:02.160: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8312): Gtk-WARNING **: 15:09:02.160: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543936143063	Marionette	INFO	Listening on port 44093
+1543936143115	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543936144043	Marionette	INFO	Stopped listening on port 44093
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+[Parent 8312, Gecko_IOThread] WARNING: pipe error (95): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1543936144564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.41pFEbBJITPp"
+
+(firefox:8568): Gtk-WARNING **: 15:09:05.079: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8568): Gtk-WARNING **: 15:09:05.079: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543936145938	Marionette	INFO	Listening on port 37869
+1543936145973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543936147396	Marionette	INFO	Stopped listening on port 37869
+[Parent 8568, Gecko_IOThread] WARNING: pipe error (82): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 8568, Gecko_IOThread] WARNING: pipe error (99): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543936148809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E45udhiIm2LK"
+
+(firefox:8823): Gtk-WARNING **: 15:09:09.335: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8823): Gtk-WARNING **: 15:09:09.335: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543936150159	Marionette	INFO	Listening on port 44921
+1543936150226	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543936150999	Marionette	INFO	Stopped listening on port 44921
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1543936151409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.K0m8R4txqAhn"
+
+(firefox:9070): Gtk-WARNING **: 15:09:11.941: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9070): Gtk-WARNING **: 15:09:11.941: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543936152877	Marionette	INFO	Listening on port 33949
+1543936152914	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543936153708	Marionette	INFO	Stopped listening on port 33949
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+[Parent 9070, Gecko_IOThread] WARNING: pipe error (107): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1543937105461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FQADLPlKrCQp"
+
+(firefox:9811): Gtk-WARNING **: 15:25:05.954: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9811): Gtk-WARNING **: 15:25:05.954: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543937106718	Marionette	INFO	Listening on port 36771
+1543937106766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543937107540	Marionette	INFO	Stopped listening on port 36771
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1543937108070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UQbbScFBNzSn"
+
+(firefox:10071): Gtk-WARNING **: 15:25:08.580: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10071): Gtk-WARNING **: 15:25:08.580: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543937109750	Marionette	INFO	Listening on port 40835
+1543937109778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543937120721	Marionette	INFO	Stopped listening on port 40835
+1543937121154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.P3533Pktqx1e"
+
+(firefox:10334): Gtk-WARNING **: 15:25:21.664: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10334): Gtk-WARNING **: 15:25:21.664: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543937122396	Marionette	INFO	Listening on port 43285
+1543937122459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543937123852	Marionette	INFO	Stopped listening on port 43285
+[Parent 10334, Gecko_IOThread] WARNING: pipe error (82): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543937124338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3m6C2ELtIpfK"
+
+(firefox:10589): Gtk-WARNING **: 15:25:24.818: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10589): Gtk-WARNING **: 15:25:24.818: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543937125594	Marionette	INFO	Listening on port 40677
+1543937125642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543937127031	Marionette	INFO	Stopped listening on port 40677
+[Parent 10589, Gecko_IOThread] WARNING: pipe error (102): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543937127453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mMkYZ5kcEygA"
+
+(firefox:10841): Gtk-WARNING **: 15:25:27.973: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10841): Gtk-WARNING **: 15:25:27.973: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543937128755	Marionette	INFO	Listening on port 45929
+1543937128761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543937129504	Marionette	INFO	Stopped listening on port 45929
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1543937129908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.klTtiXeuDtgx"
+
+(firefox:11091): Gtk-WARNING **: 15:25:30.430: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11091): Gtk-WARNING **: 15:25:30.430: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543937131371	Marionette	INFO	Listening on port 36807
+1543937131414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543937132266	Marionette	INFO	Stopped listening on port 36807
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1543938051517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mnET4c0x3vRV"
+
+(firefox:11608): Gtk-WARNING **: 15:40:52.001: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11608): Gtk-WARNING **: 15:40:52.001: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543938052730	Marionette	INFO	Listening on port 37319
+1543938052824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543938053591	Marionette	INFO	Stopped listening on port 37319
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1543938054137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gLZCOrotn9fe"
+
+(firefox:11866): Gtk-WARNING **: 15:40:54.632: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11866): Gtk-WARNING **: 15:40:54.632: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543938055407	Marionette	INFO	Listening on port 42975
+1543938055442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543938066384	Marionette	INFO	Stopped listening on port 42975
+1543938066818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jxtskDOWea4B"
+
+(firefox:12128): Gtk-WARNING **: 15:41:07.308: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12128): Gtk-WARNING **: 15:41:07.308: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543938068067	Marionette	INFO	Listening on port 45587
+1543938068133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543938069565	Marionette	INFO	Stopped listening on port 45587
+[Parent 12128, Gecko_IOThread] WARNING: pipe error (102): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543938070055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mpBp29JbTzUF"
+
+(firefox:12388): Gtk-WARNING **: 15:41:10.548: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12388): Gtk-WARNING **: 15:41:10.548: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543938071294	Marionette	INFO	Listening on port 33219
+1543938071359	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543938072739	Marionette	INFO	Stopped listening on port 33219
+[Parent 12388, Gecko_IOThread] WARNING: pipe error (96): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543938073181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tyyIPHeaeZFY"
+
+(firefox:12652): Gtk-WARNING **: 15:41:13.704: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12652): Gtk-WARNING **: 15:41:13.704: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543938074477	Marionette	INFO	Listening on port 37837
+1543938074486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543938075237	Marionette	INFO	Stopped listening on port 37837
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+[Parent 12652, Gecko_IOThread] WARNING: pipe error (96): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1543938075655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.25x5Jd5AIOrO"
+
+(firefox:12908): Gtk-WARNING **: 15:41:16.124: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12908): Gtk-WARNING **: 15:41:16.124: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543938076867	Marionette	INFO	Listening on port 34911
+1543938076962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543938077753	Marionette	INFO	Stopped listening on port 34911
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1543938145902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tIdTKxjVnrXr"
+
+(firefox:13191): Gtk-WARNING **: 15:42:26.400: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13191): Gtk-WARNING **: 15:42:26.400: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543938147155	Marionette	INFO	Listening on port 36041
+1543938147207	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543938147979	Marionette	INFO	Stopped listening on port 36041
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1543938148513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OX7TbTsBUwcv"
+
+(firefox:13452): Gtk-WARNING **: 15:42:29.003: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13452): Gtk-WARNING **: 15:42:29.003: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543938149785	Marionette	INFO	Listening on port 41513
+1543938149818	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543938160757	Marionette	INFO	Stopped listening on port 41513
+[Parent 13452, Gecko_IOThread] WARNING: pipe error (87): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 13452, Gecko_IOThread] WARNING: pipe error (92): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543938161180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UYhTeCuzjuKk"
+
+(firefox:13716): Gtk-WARNING **: 15:42:41.697: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13716): Gtk-WARNING **: 15:42:41.697: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543938162435	Marionette	INFO	Listening on port 42625
+1543938162485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543938163891	Marionette	INFO	Stopped listening on port 42625
+[Parent 13716, Gecko_IOThread] WARNING: pipe error (71): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543938164384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Pm5XnepVtnmK"
+
+(firefox:13967): Gtk-WARNING **: 15:42:44.873: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13967): Gtk-WARNING **: 15:42:44.873: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543938165590	Marionette	INFO	Listening on port 43889
+1543938165690	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543938167082	Marionette	INFO	Stopped listening on port 43889
+[Parent 13967, Gecko_IOThread] WARNING: pipe error: Обрыв канала: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+[Parent 13967, Gecko_IOThread] WARNING: pipe error (98): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543938167607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3eGIUIH01eWr"
+
+(firefox:14230): Gtk-WARNING **: 15:42:48.089: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14230): Gtk-WARNING **: 15:42:48.089: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543938168822	Marionette	INFO	Listening on port 46567
+1543938168916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543938169658	Marionette	INFO	Stopped listening on port 46567
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1543938170079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KjuEpooniHhK"
+
+(firefox:14482): Gtk-WARNING **: 15:42:50.556: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14482): Gtk-WARNING **: 15:42:50.556: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543938171335	Marionette	INFO	Listening on port 38717
+1543938171383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543938172178	Marionette	INFO	Stopped listening on port 38717
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1543938265145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QMbfiqqPojnR"
+
+(firefox:14789): Gtk-WARNING **: 15:44:25.634: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14789): Gtk-WARNING **: 15:44:25.634: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543938266396	Marionette	INFO	Listening on port 35695
+1543938266450	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543938267246	Marionette	INFO	Stopped listening on port 35695
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1543938267794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6NuAzCHQWVGT"
+
+(firefox:15045): Gtk-WARNING **: 15:44:28.278: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15045): Gtk-WARNING **: 15:44:28.278: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543938269078	Marionette	INFO	Listening on port 45809
+1543938269106	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543938280042	Marionette	INFO	Stopped listening on port 45809
+1543938280461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GS9c2vhygtqJ"
+
+(firefox:15311): Gtk-WARNING **: 15:44:40.979: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15311): Gtk-WARNING **: 15:44:40.979: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543938281719	Marionette	INFO	Listening on port 44977
+1543938281768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543938283179	Marionette	INFO	Stopped listening on port 44977
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1543938283647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cQin9sen03ZG"
+
+(firefox:15573): Gtk-WARNING **: 15:44:44.120: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15573): Gtk-WARNING **: 15:44:44.120: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543938284826	Marionette	INFO	Listening on port 44847
+1543938284855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543938286263	Marionette	INFO	Stopped listening on port 44847
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x160011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1543938286701	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.H7U3lykzeSsU"
+
+(firefox:15844): Gtk-WARNING **: 15:44:47.186: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15844): Gtk-WARNING **: 15:44:47.186: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543938287991	Marionette	INFO	Listening on port 36699
+1543938288008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543938288750	Marionette	INFO	Stopped listening on port 36699
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1543938289173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MMWUsOyxQyji"
+
+(firefox:16098): Gtk-WARNING **: 15:44:49.665: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16098): Gtk-WARNING **: 15:44:49.665: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543938290460	Marionette	INFO	Listening on port 40191
+1543938290481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543938291284	Marionette	INFO	Stopped listening on port 40191
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1544021681940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.O9UNrdjaXiXA"
+
+(firefox:4708): Gtk-WARNING **: 14:54:47.148: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4708): Gtk-WARNING **: 14:54:47.148: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544021690404	Marionette	INFO	Listening on port 33799
+1544021690456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544021691549	Marionette	INFO	Stopped listening on port 33799
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+[Parent 4708, Gecko_IOThread] WARNING: pipe error (61): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 349: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1544021692091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yIAEeMWuMu4i"
+
+(firefox:5009): Gtk-WARNING **: 14:54:52.583: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5009): Gtk-WARNING **: 14:54:52.583: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544021693365	Marionette	INFO	Listening on port 42799
+1544021693395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544021704325	Marionette	INFO	Stopped listening on port 42799
+[Parent 5009, Gecko_IOThread] WARNING: pipe error (82): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 5009, Gecko_IOThread] WARNING: pipe error (101): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544021704795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XzjFtK9YLRux"
+
+(firefox:5278): Gtk-WARNING **: 14:55:05.344: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5278): Gtk-WARNING **: 14:55:05.344: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544021706115	Marionette	INFO	Listening on port 38597
+1544021706201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544021707626	Marionette	INFO	Stopped listening on port 38597
+1544021708119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DMYyfmkjqN0j"
+
+(firefox:5542): Gtk-WARNING **: 14:55:08.607: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5542): Gtk-WARNING **: 14:55:08.607: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544021709347	Marionette	INFO	Listening on port 41809
+1544021709424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544021710808	Marionette	INFO	Stopped listening on port 41809
+1544021711224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fzDl2MTZA4gC"
+
+(firefox:5809): Gtk-WARNING **: 14:55:11.804: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5809): Gtk-WARNING **: 14:55:11.804: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544021712643	Marionette	INFO	Listening on port 38473
+1544021712730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544021713501	Marionette	INFO	Stopped listening on port 38473
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+[Parent 5809, Gecko_IOThread] WARNING: pipe error (99): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1544021713908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WfWsHb2gYjoo"
+
+(firefox:6078): Gtk-WARNING **: 14:55:14.407: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6078): Gtk-WARNING **: 14:55:14.407: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544021715160	Marionette	INFO	Listening on port 45091
+1544021715212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544021715980	Marionette	INFO	Stopped listening on port 45091
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1544021946239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mfuM8jdmKuxK"
+
+(firefox:6391): Gtk-WARNING **: 14:59:06.750: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6391): Gtk-WARNING **: 14:59:06.750: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544021947533	Marionette	INFO	Listening on port 33419
+1544021947546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544021948352	Marionette	INFO	Stopped listening on port 33419
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+[Parent 6391, Gecko_IOThread] WARNING: pipe error (82): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1544021948884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rV2DS0IvxbhU"
+
+(firefox:6641): Gtk-WARNING **: 14:59:09.369: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6641): Gtk-WARNING **: 14:59:09.370: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544021950093	Marionette	INFO	Listening on port 42397
+1544021950190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544021961115	Marionette	INFO	Stopped listening on port 42397
+[Parent 6641, Gecko_IOThread] WARNING: pipe error (104): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544021961536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yvLqcNCk4SoV"
+
+(firefox:6907): Gtk-WARNING **: 14:59:22.053: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6907): Gtk-WARNING **: 14:59:22.053: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544021962815	Marionette	INFO	Listening on port 34439
+1544021962846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544021964266	Marionette	INFO	Stopped listening on port 34439
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x160011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1544021964756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1vFzG72HJDlh"
+
+(firefox:7164): Gtk-WARNING **: 14:59:25.229: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7164): Gtk-WARNING **: 14:59:25.229: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544021965994	Marionette	INFO	Listening on port 44939
+1544021966068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544021967453	Marionette	INFO	Stopped listening on port 44939
+1544021967969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0wnnmlVi3Ajr"
+
+(firefox:7424): Gtk-WARNING **: 14:59:28.480: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7424): Gtk-WARNING **: 14:59:28.480: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544021969247	Marionette	INFO	Listening on port 35159
+1544021969279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544021970034	Marionette	INFO	Stopped listening on port 35159
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+[Parent 7424, Gecko_IOThread] WARNING: pipe error (100): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1544021970435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ieomeG09PYmf"
+
+(firefox:7676): Gtk-WARNING **: 14:59:30.937: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7676): Gtk-WARNING **: 14:59:30.937: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544021971743	Marionette	INFO	Listening on port 46825
+1544021971840	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544021972659	Marionette	INFO	Stopped listening on port 46825
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+[Parent 7676, Gecko_IOThread] WARNING: pipe error (100): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1544022139699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2KQwxuin3ZFM"
+
+(firefox:7987): Gtk-WARNING **: 15:02:20.223: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7987): Gtk-WARNING **: 15:02:20.223: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544022140970	Marionette	INFO	Listening on port 39519
+1544022141005	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544022141807	Marionette	INFO	Stopped listening on port 39519
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1544022142333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5WorXojz0YIj"
+
+(firefox:8253): Gtk-WARNING **: 15:02:22.834: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8253): Gtk-WARNING **: 15:02:22.834: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544022143613	Marionette	INFO	Listening on port 43749
+1544022143646	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544022154578	Marionette	INFO	Stopped listening on port 43749
+1544022155003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GvsMCJcELwX5"
+
+(firefox:8509): Gtk-WARNING **: 15:02:35.512: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8509): Gtk-WARNING **: 15:02:35.512: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544022156238	Marionette	INFO	Listening on port 44943
+1544022156311	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544022157769	Marionette	INFO	Stopped listening on port 44943
+1544022158253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.on4evigHgPws"
+
+(firefox:8776): Gtk-WARNING **: 15:02:38.729: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8776): Gtk-WARNING **: 15:02:38.729: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544022159497	Marionette	INFO	Listening on port 41451
+1544022159569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544022160963	Marionette	INFO	Stopped listening on port 41451
+[Parent 8776, Gecko_IOThread] WARNING: pipe error (96): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544022161393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ir4Wk6l3E6wH"
+
+(firefox:9038): Gtk-WARNING **: 15:02:41.894: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9038): Gtk-WARNING **: 15:02:41.894: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544022162655	Marionette	INFO	Listening on port 44307
+1544022162700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544022163459	Marionette	INFO	Stopped listening on port 44307
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1544022163874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.U7pwYHa9K0wn"
+
+(firefox:9298): Gtk-WARNING **: 15:02:44.354: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9298): Gtk-WARNING **: 15:02:44.354: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544022165099	Marionette	INFO	Listening on port 33073
+1544022165180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544022165982	Marionette	INFO	Stopped listening on port 33073
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1544022202316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CIKv56PMiKmA"
+
+(firefox:9577): Gtk-WARNING **: 15:03:22.842: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9577): Gtk-WARNING **: 15:03:22.842: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544022203567	Marionette	INFO	Listening on port 46217
+1544022203623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544022204435	Marionette	INFO	Stopped listening on port 46217
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+[Parent 9577, Gecko_IOThread] WARNING: pipe error (98): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1544022204974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kNq5WeLRBB5g"
+
+(firefox:9843): Gtk-WARNING **: 15:03:25.462: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9843): Gtk-WARNING **: 15:03:25.462: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544022206248	Marionette	INFO	Listening on port 42403
+1544022206279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544022207026	Marionette	INFO	Stopped listening on port 42403
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1544022207447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OfmlrrGGp5CD"
+
+(firefox:10105): Gtk-WARNING **: 15:03:27.964: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10105): Gtk-WARNING **: 15:03:27.964: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544022208648	Marionette	INFO	Listening on port 46383
+1544022208658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544022210108	Marionette	INFO	Stopped listening on port 46383
+[Parent 10105, Gecko_IOThread] WARNING: pipe error (102): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544022210590	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BuLNmj6QfKDt"
+
+(firefox:10365): Gtk-WARNING **: 15:03:31.088: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10365): Gtk-WARNING **: 15:03:31.088: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544022211861	Marionette	INFO	Listening on port 36439
+1544022211897	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544022213289	Marionette	INFO	Stopped listening on port 36439
+1544022213711	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0tQLh9UVsQ4L"
+
+(firefox:10620): Gtk-WARNING **: 15:03:34.218: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10620): Gtk-WARNING **: 15:03:34.218: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544022214960	Marionette	INFO	Listening on port 40227
+1544022215026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544022215766	Marionette	INFO	Stopped listening on port 40227
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1544022216169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5OvGJ6BZSCmM"
+
+(firefox:10874): Gtk-WARNING **: 15:03:36.656: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10874): Gtk-WARNING **: 15:03:36.656: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544022217418	Marionette	INFO	Listening on port 44055
+1544022217474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544022218265	Marionette	INFO	Stopped listening on port 44055
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1544022229538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7478PQRo7u6F"
+
+(firefox:11146): Gtk-WARNING **: 15:03:50.049: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11146): Gtk-WARNING **: 15:03:50.049: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544022230819	Marionette	INFO	Listening on port 40883
+1544022230849	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544022231636	Marionette	INFO	Stopped listening on port 40883
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1544022232170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9BXffHzyBPiF"
+
+(firefox:11401): Gtk-WARNING **: 15:03:52.651: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11401): Gtk-WARNING **: 15:03:52.651: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544022233439	Marionette	INFO	Listening on port 42975
+1544022233475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544022234783	Marionette	INFO	Stopped listening on port 42975
+[Parent 11401, Gecko_IOThread] WARNING: pipe error (82): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 11401, Gecko_IOThread] WARNING: pipe error (101): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544022235206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CM4jrGvFBuAT"
+
+(firefox:11655): Gtk-WARNING **: 15:03:55.722: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11655): Gtk-WARNING **: 15:03:55.722: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544022236475	Marionette	INFO	Listening on port 45517
+1544022236513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544022237945	Marionette	INFO	Stopped listening on port 45517
+1544022238932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.p5DwuPF47WT1"
+
+(firefox:11918): Gtk-WARNING **: 15:03:59.416: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11918): Gtk-WARNING **: 15:03:59.416: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544022240180	Marionette	INFO	Listening on port 46311
+1544022240237	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544022241617	Marionette	INFO	Stopped listening on port 46311
+1544022242038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oP102Nj9t6Ra"
+
+(firefox:12176): Gtk-WARNING **: 15:04:02.549: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12176): Gtk-WARNING **: 15:04:02.549: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544022243315	Marionette	INFO	Listening on port 44755
+1544022243345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544022244103	Marionette	INFO	Stopped listening on port 44755
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+[Parent 12176, Gecko_IOThread] WARNING: pipe error (96): Соединение разорвано другой стороной: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1544022244505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.L7KH3xgjWxVb"
+
+(firefox:12442): Gtk-WARNING **: 15:04:04.984: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12442): Gtk-WARNING **: 15:04:04.984: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544022245711	Marionette	INFO	Listening on port 40965
+1544022245810	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544022246597	Marionette	INFO	Stopped listening on port 40965
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
